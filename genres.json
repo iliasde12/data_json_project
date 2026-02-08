@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Action",
+    "description": "High-energy films with exciting stunts, chases, and physical feats",
+    "icon": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400",
+    "color": "#ff4757"
+  },
+  {
+    "id": 2,
+    "name": "Comedy",
+    "description": "Humorous films designed to entertain and amuse audiences",
+    "icon": "https://images.unsplash.com/photo-1527224857830-43a7acc85260?w=400",
+    "color": "#ffa502"
+  },
+  {
+    "id": 3,
+    "name": "Drama",
+    "description": "Serious, plot-driven films focusing on realistic characters and emotional themes",
+    "icon": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=400",
+    "color": "#5f27cd"
+  },
+  {
+    "id": 4,
+    "name": "Sci-Fi",
+    "description": "Futuristic films exploring science, technology, and space",
+    "icon": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400",
+    "color": "#00d2d3"
+  },
+  {
+    "id": 5,
+    "name": "Horror",
+    "description": "Frightening films designed to scare and thrill audiences",
+    "icon": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=400",
+    "color": "#2d3436"
+  },
+  {
+    "id": 6,
+    "name": "Romance",
+    "description": "Love stories and romantic relationships taking center stage",
+    "icon": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400",
+    "color": "#ff6b81"
+  },
+  {
+    "id": 7,
+    "name": "Thriller",
+    "description": "Suspenseful films with tension, excitement, and unexpected twists",
+    "icon": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=400",
+    "color": "#341f97"
+  },
+  {
+    "id": 8,
+    "name": "Animation",
+    "description": "Animated films for all ages using various animation techniques",
+    "icon": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400",
+    "color": "#48dbfb"
+  }
+]
